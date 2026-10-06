@@ -1,2 +1,2 @@
 # DataSci-Daily
-my everyday journey til I become a successful data scientist 
+my everyday journey in python til I have a j0b
